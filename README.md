@@ -1,3 +1,2 @@
 # hello-world
-Just another repository
-This is the first ever repository!
+Just another repository This is the first ever repository!
